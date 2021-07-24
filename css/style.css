@@ -184,6 +184,9 @@ button {
     .box__container {
         width: 100%;
     }
+    .container {
+        padding: 0 3px;
+    }
 }
 @media(max-width:425px) {
     #form {

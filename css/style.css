@@ -24,11 +24,12 @@ a{
 }
 .center img{
     width: 60px;
+    
 }
 .title{
-    font-size: 30px;
-    font-weight: 700;
-
+    font-size: 50px;
+    font-weight: 800;
+    letter-spacing: 1px;
 }
 
 #form {
